@@ -1,2 +1,2 @@
-# progate.github.io
-Project G-23 DTS-OA
+# progatecoba.github.io
+Nina Belajar
