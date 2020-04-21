@@ -1,2 +1,1 @@
-# progatecoba.github.io
-Nina Belajar
+# progate.github.io
